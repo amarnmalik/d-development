@@ -1,0 +1,4 @@
+1. Product details and its categories of Product will be store in database. Product object will populate for database in real system.
+2. First the percentage discount will be calculate and then plan discount.
+3. Customer some details populate from context object.
+4. First percentage discount and then plan discount will calculate;
